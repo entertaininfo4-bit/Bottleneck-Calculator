@@ -1,7 +1,7 @@
 # Bottleneck-Calculator
 Bottleneck Calculator is an online tool that helps users check CPU and GPU compatibility and identify performance bottlenecks. It provides quick estimates, hardware insights, and upgrade recommendations, making it easier to build or optimize a balanced PC for gaming, content creation, and everyday computing.
 
-# Bottleneck Calculator – Check CPU and GPU Compatibility Online
+# Bottleneck Calculator  Check CPU and GPU Compatibility Online
 
 Looking for the easiest way to determine whether your PC components are perfectly matched? Our **<a href="https://yourwebsite.com/">Bottleneck Calculator</a>** helps you identify CPU and GPU performance bottlenecks in seconds. Whether you're building a new gaming PC, upgrading your existing system, or comparing hardware, this tool provides valuable insights to help you make smarter purchasing decisions.
 
